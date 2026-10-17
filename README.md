@@ -2,6 +2,6 @@
 
 Public website: https://yliu54977-bot.github.io/privacy-x-ray-site/
 
-Compiled static website only. Images and selected PDF pages are processed in browser memory. Detection covers selected text patterns, QR codes and possible face locations; it can miss information. Review candidates and the actual exported PNG. Other PDF pages are not redacted.
+Upload an image or selected PDF page. Recognition starts automatically. Select the information to hide, optionally draw manual masks, preview the permanently covered PNG and download. No recipient or purpose forms are required. Processing stays in browser memory; recognition may miss information.
 
-Build source revision: `6b9eba202cbe0c78f2ca7476730b527f9eb4a1bd`.
+Compiled static website. Source revision: `12e048d26b93825d2b51601e0a7573b9daa10e2e`.

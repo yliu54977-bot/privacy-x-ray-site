@@ -1,4 +1,5 @@
 {
-  "sourceRevision": "6b9eba202cbe0c78f2ca7476730b527f9eb4a1bd",
-  "application": "Privacy X-Ray"
+  "sourceRevision": "12e048d26b93825d2b51601e0a7573b9daa10e2e",
+  "application": "Privacy X-Ray",
+  "workflow": "Upload, select information to hide, preview and download"
 }
