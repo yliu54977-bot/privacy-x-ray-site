@@ -1,0 +1,9 @@
+{
+  "workerVersion": "6.0.1",
+  "coreVersion": "6.1.2",
+  "languagePackage": "@tesseract.js-data/eng@1.0.0",
+  "languageVariant": "4.0.0",
+  "sha256": "ed350f3752f81ee8f38769edc14d92d997dababe23b565c59879372cc46a2468",
+  "chineseLanguagePackage": "@tesseract.js-data/chi_sim@1.0.0",
+  "chineseSha256": "59388039851e4d1293d729c183fd8c1fa9bbbb959eed996e945024671e68c1d6"
+}
